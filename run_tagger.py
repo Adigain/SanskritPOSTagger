@@ -14,7 +14,7 @@ from POSTagger import (
 from POSTagger.config import LAYERS, MAX_SEQ_LENGTH
 from POSTagger.input import SENTENCES, TAGSET
 
-print("\n[1] Loading JNU Tagset training data...")
+print("\n[1] Loading Base Tagset training data...")
 X, Y, word_tokenizer, tag_tokenizer = load_base_data()
 
 print("\n[2] Loading FastText Embeddings...")
