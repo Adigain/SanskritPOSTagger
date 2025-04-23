@@ -62,6 +62,8 @@ Initial default values are provided in .config file. You can fine-tune them to y
 - **Real Token Accuracy**: ~90–95% 
 - **Further Improvements**: Try attention, CRF, or transformer-based embeddings for higher accuracy.
 
+![Result](POSTagger/data/Training.png)
+
 ## 🙏 Acknowledgements
 
 - JNU Sanskrit POS tagset dataset
